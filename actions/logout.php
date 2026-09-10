@@ -1,8 +1,6 @@
 <?php
 
-    //  updated code for git testing
-    //  updated code for git testing
-    //  updated code for git testing
+    //  new changes
     
     session_start();
     session_unset();
